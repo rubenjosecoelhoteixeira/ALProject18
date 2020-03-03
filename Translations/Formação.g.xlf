@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Formação">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2843944920 - Field 2333076789 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PrimaryKey</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SalesInvoiceCueTable - Field PrimaryKey - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2843944920 - Field 1759423327 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SalesInvoiceOpen</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SalesInvoiceCueTable - Field SalesInvoiceOpen - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3198635395 - Control 1106103144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SalesInvoiceCuePage - Control SalesCueContainer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3198635395 - Control 2852801117 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SalesInvoiceCuePage - Control SalesCue - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
